@@ -1,4 +1,5 @@
 ### To-do List
-![Screenshot 2024-08-12 111314](https://github.com/user-attachments/assets/9aee7522-63bc-4801-8618-2e6ed0491c26)
+![todo](https://github.com/user-attachments/assets/d16cb372-5ca9-4e01-8ed9-7d5043a6594e)
 ## Live Demo :
 https://dhanasekar25104.github.io/To-do-list/
+
